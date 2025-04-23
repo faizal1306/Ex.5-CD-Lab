@@ -1,8 +1,8 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
 ## REGNO:212223243002
-## NAME :MOHAMED FAIZAL M
-
+## NAME: MOHAMED FAIZAL M
+## DATE:
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
 ## ALGORITHM:
