@@ -1,7 +1,8 @@
 # Ex.No:5
 # RECOGNITION OF THE GRAMMAR(a^nb where n>=10) USING YACC
+## Name: Mohamed Faizal M
 ## Register Number:212223243002
-## Date:
+## Date:06/10/2025
 ## AIM:
 To write a YACC program to recognize the grammar a^nb where n>=10.
 ## ALGORITHM:
